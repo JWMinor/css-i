@@ -1,1 +1,5 @@
 /*CSS Style Document*/
+p{color:red;}
+ul{list-style-type: square;}
+h1{font-size:50px; font-family: impact;}
+img{height:240px;width:320px;}
